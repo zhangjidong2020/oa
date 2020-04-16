@@ -11,6 +11,7 @@ public class HelloA {
 		System.out.println("mmm");
 
 		System.out.println("yyy");
+		System.out.println("55555");
 	}
 
 }
