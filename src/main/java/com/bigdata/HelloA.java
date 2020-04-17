@@ -13,6 +13,7 @@ public class HelloA {
 		System.out.println("yyy");
 
 		System.out.println("55555");
+		System.out.println("weixin");
 
 	}
 
